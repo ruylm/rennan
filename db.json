@@ -1,3 +1,5 @@
+{ "aulas" :
+[
     {
         "time": "9:30",
         "book": "Intro A",
@@ -26,4 +28,6 @@
         "grammar": "future with be going to",
         "students": "Cat, Dog, Moose"
     }
+]
+}
 
